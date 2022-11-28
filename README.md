@@ -38,7 +38,7 @@
 <a href="https://www.linkedin.com/in/aniket-pandey2912/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="<a href="mailto:aniketpandey2912@gmail.com" target="_blank">
+<a href="mailto:aniketpandey2912@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 </div>
@@ -80,10 +80,10 @@
 
 ## 📊 My Github Stats
    <br/>   
-    <p align="center">      
+<!--     <p align="center">      
   <a href="https://github.com/aniketpandey2912/github-readme-stats"><img alt="aniketpandey2912 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketpaney2912&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
-     <br/>
+     <br/> -->
    <p align="center">
     <a href="https://github.com/aniketpandey2912/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aniketpandey2912 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketpandey2912&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
@@ -108,6 +108,6 @@
 
 <img width= 100% src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
 
-<h3 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
+<!-- <h3 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3> -->
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
