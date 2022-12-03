@@ -83,7 +83,7 @@
 ## 📊 My Github Stats
    <br/>   
  <p align="center">      
-  <a href="https://github.com/aniketpandey2912/github-readme-stats"><img alt="aniketpandey2912 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketpaney2912&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/aniketpandey2912/github-readme-stats"><img alt="aniketpandey2912 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketpandey2912&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/> 
    <p align="center">
