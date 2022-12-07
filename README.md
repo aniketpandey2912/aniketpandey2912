@@ -107,6 +107,11 @@
 
 <br/>
 <br/>
+<p align="center">
+<img  align="center" alt="aniketpandey2912 Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketpandey2912&theme=dracula" alt="img" /></p>
+
+<br/>
+<br/>
 
 <!-- <img width= 100% src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwMeX8oQjnPUSnTXMOnzmQnwYjnCXPqw4smQ&usqp=CAU" alt=""> -->
 
