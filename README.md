@@ -113,6 +113,11 @@
 <br/>
 <br/>
 
+### 🧑‍💻 Leetcode Stats
+<p align="center">
+  <img align="center" src="https://leetcard.jacoblin.cool/aniketpandey2912?theme=unicorn"/>
+</p>
+
 <!-- <img width= 100% src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwMeX8oQjnPUSnTXMOnzmQnwYjnCXPqw4smQ&usqp=CAU" alt=""> -->
 
 <!-- <h3 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3> -->
