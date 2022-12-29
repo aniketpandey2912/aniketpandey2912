@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning *React.js*
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1x0iQopDu1u7FI_gu_QY_q37EX2gCMYos/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mwZuiSiBNOQMzjeG6EO8Zkr3L2eLt3Rw/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at Github and [Portfolio](https://aniketpandey2912.github.io/)
 
