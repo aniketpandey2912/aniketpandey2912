@@ -56,8 +56,10 @@
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
-<!-- <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/> -->
 <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+<img src="https://img.shields.io/badge/Typescript%20-007FFF?style=for-the-badge&logo=typescript&logoColor=white"  align="center" alt="typescript"/>
+<img src="https://img.shields.io/badge/Next.Js%20-000000?style=for-the-badge&logo=next.js&logoColor=white"  align="center" alt="nextjs"/>
+<img src="https://img.shields.io/badge/Storybook%20-F3F3F3?style=for-the-badge&logo=storybook&logoColor=FF4785"  align="center" alt="storybook"/>
 </div>
   <div align="center"><h3 align="center">Backend</h3> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
@@ -72,7 +74,7 @@
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<!-- <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman"> -->
+<img src ="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=vscode&logoColor=blue" align="center" alt="vscode">
 <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    <br/>
  </div>
