@@ -97,7 +97,8 @@
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/aniketpandey2912/github-readme-stats"><img alt="aniketpandey2912 Github Stats" src="https://github-readme-stats.vercel.app/api?username=aniketpandey2912&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="aniketpandey2912" /></a>
+<!--     <a href="https://github.com/aniketpandey2912/github-readme-stats"><img alt="aniketpandey2912 Github Stats" src="https://github-readme-stats.vercel.app/api?username=aniketpandey2912&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="aniketpandey2912" /></a> -->
+  [![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketpandey2912)](https://github.com/aniketpandey2912/github-readme-activity-graph)
     </p>                                                                 
  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
