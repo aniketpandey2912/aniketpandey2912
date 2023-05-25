@@ -106,14 +106,14 @@
 <br/>
 <br/>
 
-<a href="https://github.com/aniketpandey2912/github-readme-activity-graph"><img alt="aniketpandey2912 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=aniketpandey2912&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/aniketpandey2912/github-readme-activity-graph"><img alt="aniketpandey2912 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=aniketpandey2912&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketpandey2912&bg_color=030303&color=ffffff&line=1000f0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
 <p align="center">
   
-<!-- <img  align="center" alt="aniketpandey2912 Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketpandey2912&theme=dracula" alt="img" /> -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketpandey2912&bg_color=030303&color=ffffff&line=1000f0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img  align="center" alt="aniketpandey2912 Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketpandey2912&theme=dracula" alt="img" />
   
 </p>
 
