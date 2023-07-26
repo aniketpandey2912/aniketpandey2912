@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently pursuing Full Stack Web Development
 
-- 🌱 I’m currently learning *React.js*
+- 🌱 I’m currently learning *Vue.js, Custome Automation And Integration*
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mwZuiSiBNOQMzjeG6EO8Zkr3L2eLt3Rw/view?usp=sharing)
 
