@@ -14,13 +14,13 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 🔭 I’m currently pursuing Full Stack Web Development
+- 🔭 I’m currently working as a JavaScript Developer Intern at @Cloudify
 
 - 🌱 I’m currently learning *Vue.js, Custome Automation And Integration*
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mwZuiSiBNOQMzjeG6EO8Zkr3L2eLt3Rw/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at Github and [Portfolio](https://aniketpandey2912.github.io/)
+- 👨‍💻 All of my projects are available on GitHub and [Portfolio](https://aniketpandey2912.github.io/)
 
 - 💞️ I’m looking to collaborate on **Projects**
 
