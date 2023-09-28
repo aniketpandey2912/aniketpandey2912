@@ -14,7 +14,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 🔭 I’m currently working as a JavaScript Developer Intern at @Cloudify
+- 🔭 I’m have worked as a JavaScript Developer Intern at @Cloudify from 12th June 2023 to 29th September 2023.
 
 - 🌱 I’m currently learning *Vue.js, Custome Automation And Integration*
 
